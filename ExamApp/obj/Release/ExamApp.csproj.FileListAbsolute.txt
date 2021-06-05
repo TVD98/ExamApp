@@ -1,0 +1,6 @@
+C:\Users\GMT\source\repos\ExamApp\ExamApp\bin\Release\ExamApp.exe.config
+C:\Users\GMT\source\repos\ExamApp\ExamApp\bin\Release\ExamApp.exe
+C:\Users\GMT\source\repos\ExamApp\ExamApp\bin\Release\ExamApp.pdb
+C:\Users\GMT\source\repos\ExamApp\ExamApp\obj\Release\ExamApp.csproj.CoreCompileInputs.cache
+C:\Users\GMT\source\repos\ExamApp\ExamApp\obj\Release\ExamApp.exe
+C:\Users\GMT\source\repos\ExamApp\ExamApp\obj\Release\ExamApp.pdb

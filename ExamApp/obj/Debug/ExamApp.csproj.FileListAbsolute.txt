@@ -1,0 +1,8 @@
+C:\Users\GMT\source\repos\ExamApp\ExamApp\bin\Debug\ExamApp.exe.config
+C:\Users\GMT\source\repos\ExamApp\ExamApp\bin\Debug\ExamApp.exe
+C:\Users\GMT\source\repos\ExamApp\ExamApp\bin\Debug\ExamApp.pdb
+C:\Users\GMT\source\repos\ExamApp\ExamApp\obj\Debug\ExamApp.csproj.AssemblyReference.cache
+C:\Users\GMT\source\repos\ExamApp\ExamApp\obj\Debug\ExamApp.csproj.CoreCompileInputs.cache
+C:\Users\GMT\source\repos\ExamApp\ExamApp\obj\Debug\ExamApp.exe
+C:\Users\GMT\source\repos\ExamApp\ExamApp\obj\Debug\ExamApp.pdb
+C:\Users\GMT\source\repos\ExamApp\ExamApp\obj\Debug\ExamApp.csproj.ResolveComReference.cache
